@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|d:\\projects\\isadntplabdemo\\src\\librarymvc\\librarydomain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|d:\\projects\\isadntplabdemo\\src\\librarymvc\\librarydomain\\model\\possession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\model\\possession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|d:\\projects\\isadntplabdemo\\src\\librarymvc\\librarydomain\\model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|d:\\projects\\isadntplabdemo\\src\\librarymvc\\librarydomain\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|d:\\projects\\isadntplabdemo\\src\\librarymvc\\librarydomain\\model\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\model\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|d:\\projects\\isadntplabdemo\\src\\librarymvc\\librarydomain\\model\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\model\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|d:\\projects\\isadntplabdemo\\src\\librarymvc\\librarydomain\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|d:\\projects\\isadntplabdemo\\src\\librarymvc\\librarydomain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBE3F3B-59DF-4455-BE57-3FB97E1721F1}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88459054-C58F-474E-8A67-4E1B86C3D722}|LibraryInfrastructure\\LibraryInfrastructure.csproj|d:\\projects\\isadntplabdemo\\src\\librarymvc\\libraryinfrastructure\\libraryinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88459054-C58F-474E-8A67-4E1B86C3D722}|LibraryInfrastructure\\LibraryInfrastructure.csproj|solutionrelative:libraryinfrastructure\\libraryinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Genre.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Model\\Genre.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Genre.cs",
+              "RelativeToolTip": "LibraryDomain\\Model\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:31:13.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Possession.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Possession.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Model\\Possession.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Possession.cs",
+              "RelativeToolTip": "LibraryDomain\\Model\\Possession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:15:41.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\User.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Model\\User.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\User.cs",
+              "RelativeToolTip": "LibraryDomain\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:30:43.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Entity.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Model\\Entity.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Entity.cs",
+              "RelativeToolTip": "LibraryDomain\\Model\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:26:16.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Model\\Book.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Book.cs",
+              "RelativeToolTip": "LibraryDomain\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:31:03.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Model\\Author.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Author.cs",
+              "RelativeToolTip": "LibraryDomain\\Model\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:30:59.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Administrator.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Model\\Administrator.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Model\\Administrator.cs",
+              "RelativeToolTip": "LibraryDomain\\Model\\Administrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:30:54.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryInfrastructure",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryInfrastructure\\LibraryInfrastructure.csproj",
+              "RelativeDocumentMoniker": "LibraryInfrastructure\\LibraryInfrastructure.csproj",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryInfrastructure\\LibraryInfrastructure.csproj",
+              "RelativeToolTip": "LibraryInfrastructure\\LibraryInfrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-10T20:05:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Class1.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Class1.cs",
+              "ToolTip": "D:\\Projects\\ISadnTPLabDemo\\src\\LibraryMVC\\LibraryDomain\\Class1.cs",
+              "RelativeToolTip": "LibraryDomain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T19:12:58.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
